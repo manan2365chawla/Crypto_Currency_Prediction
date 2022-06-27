@@ -23,6 +23,3 @@ Genetic Algorithm has been applied to optimize
 4. Pass the rules generated from the decision tree to the FIS.
 5. The FIS then can be used to predict the values based on given input. 
 6. Testing
-"# CryptoCurrencyPredictionSentimentAnalysis" 
-# CrytpoCurrencyPredictionSentimentAnalysis
-# CrytpoCurrencyPredictionSentimentAnalysis
